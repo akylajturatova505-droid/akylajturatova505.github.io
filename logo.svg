@@ -1,0 +1,5 @@
+<svg width="60" height="50" xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="50" rx="8" fill="#4a6fa5" />
+  <text x="30" y="20" fill="white" font-size="16" font-family="Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">АТ</text>
+  <text x="30" y="36" fill="white" font-size="12" font-family="Arial, sans-serif" text-anchor="middle">ИСТ-38</text>
+</svg>
